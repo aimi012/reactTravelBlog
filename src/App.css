@@ -1,3 +1,16 @@
+.card-container{
+  display: flex;
+}
+.card{
+  justify-content: space-evenly;
+  margin: 10px;
+  width: 90%;
+}
+.card img{
+  width: 200px;
+  height: 100px;
+}
+
 .App {
   text-align: center;
 }
